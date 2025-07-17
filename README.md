@@ -1,7 +1,7 @@
 <img align="center" src="github_banner.png" alt="github banner">
 
 <h1 align="center">Hi 👋, I'm Sandali Malshani</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">An IT Enthusiast from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sandali426" alt="profile views">
